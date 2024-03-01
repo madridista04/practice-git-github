@@ -5,3 +5,7 @@ const team1 = "Real Madrid"
 function myteam() {
     console.log(`The best team in world is ${team1}`);
 }
+
+function fnNew() {
+    console.log("i am new FN");
+}
