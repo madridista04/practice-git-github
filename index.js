@@ -9,3 +9,7 @@ function myteam() {
 function fnNew() {
     console.log("i am new FN");
 }
+
+function isAbove18() {
+    return age >= 18
+}
