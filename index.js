@@ -1,6 +1,6 @@
 const age =24;
 
-const team1 = "Real Madrid"
+const team1 = "Real Madrid 14"
 
 function myteam() {
     console.log(`The best team in world is ${team1}`);
