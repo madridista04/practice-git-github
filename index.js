@@ -30,4 +30,5 @@ function newFeatureAdded(){
 function newFeatureAdded_C(){
     console.log("New feature added C");
     console.log("New feature C");
+    console.log("New feature D");
 }
